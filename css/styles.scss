@@ -42,7 +42,7 @@ body{
     z-index:0;
 }
 ///////////////////////////////////////////////////////////////////////////
-.navbar-inverse {
+.navbar-dark {
      background-color: $background-dark;
 }/////////////////////////////////////////////////////////////////////
 .tab-content {
@@ -52,7 +52,7 @@ body{
     padding: 10px;
 }
 
-carousel {
+.carousel {
     background: $background-dark;
 
     .carousel-item {
@@ -69,4 +69,5 @@ carousel {
     right:0px;
     position: absolute;
     bottom: 0px;
+    
 }
